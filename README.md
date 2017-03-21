@@ -7,11 +7,11 @@ This is a work in progress.
 
 It will evolve in value over time and with more work.
 
-In September 2016, I switched from `sublime` to `atom` and added `zsh` and `bash` as a coding noob at [Learners Guild](https://learnersguild.org/).
+In September 2016, I switched from `sublime` to `atom` and added `zsh` as a coding noob at [Learners Guild](https://learnersguild.org/).
 
-Up to that  point, I was self-taught and solo.
+Up to that point, I'd been self-taught in basic `html`, `css`, and some `JavaScript`, primarily working with tutorials and minimal work in `Node`.
 
-Now, I'm five months into a ten month project based program and continue to improve as a self-taught software engineer, but with the remarkable help of my peers and LG professional players guiding me as I build my arsenal.
+Now, as I'm halfway into a ten-month project-based software engineering program, I continue to improve as a frontend software engineer.  Although only with the remarkable work and projects with my peers, and the guidance of my LG professional players and mentors: all of whom have helped me tremendously as *critical guides* as I build my software engineering arsenal of tools.
 
 My journey to acquire and evolve my coding skills have been optimized with the following, but not limited to, tools that support my development environment.
 
