@@ -7,7 +7,7 @@ This is a work in progress.
 
 It will evolve in value over time and with more work.
 
-In September 2016, I switched from `sublime` to `atom` and added `zsh` and `bash` as a coding noob at [Learners Guild]( ).
+In September 2016, I switched from `sublime` to `atom` and added `zsh` and `bash` as a coding noob at [Learners Guild](https://learnersguild.org/).
 
 Up to that  point, I was self-taught and solo.
 
@@ -18,5 +18,6 @@ My journey to acquire and evolve my coding skills have been optimized with the f
 
 ### Table Of Contents
 
-[1 - Atom](https://atom.io/)
-[2 - Oh my zsh!](http://ohmyz.sh/) with my [pending configurations](http://stevendobbelaere.be/installing-and-configuring-the-oh-my-zsh-shell/)
+- [1 - Atom](https://atom.io/)
+- [2 - Oh my zsh!](http://ohmyz.sh/) with my [pending configurations](http://stevendobbelaere.be/installing-and-configuring-the-oh-my-zsh-shell/)
+
