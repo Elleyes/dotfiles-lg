@@ -13,7 +13,7 @@ Up to that  point, I was self-taught and solo.
 
 Now, I'm five months into a ten month project based program and continue to improve as a self-taught software engineer, but with the remarkable help of my peers and LG professional players guiding me as I build my arsenal.
 
-My ongoing journey to acquire and evolve my coding skills have been optimized with some of these development environment.
+My journey to acquire and evolve my coding skills have been optimized with the following, but not limited to, tools that support my development environment.
 
 
 ### Table Of Contents
