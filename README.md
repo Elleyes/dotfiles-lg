@@ -16,5 +16,5 @@ My journey so far has been optimized with the following, but not limited to, too
 
 - [1 - Atom](https://atom.io/)
 - [2 - Oh My ZSH!](http://ohmyz.sh/) with my [.zshrc](https://github.com/Elleyes/dotfiles-lg/blob/master/.zshrc)
-- [3 - Conference List]( )
-- [4 - Career Development Resources]( )
+- [3 - Conferences And Resources](https://github.com/Elleyes/dotfiles-lg/wiki/Conferences-and-Resources)
+
