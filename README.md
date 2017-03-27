@@ -1,23 +1,20 @@
 ## Dotfiles LG
 
-
 ## About
 
 This is a work in progress.
 
-It will evolve in value over time and with more work.
+It will evolve in value over time and with work.
 
-In September 2016, I switched from `sublime` to `atom` and added `zsh` as a coding noob at [Learners Guild](https://learnersguild.org/).
+In September 2016, I switched from `sublime` to `atom` and added `zsh`, among other dev tools.  I'm sure my interest in their utility will wax and wane to include other tools, as I journey from [Learners Guild](https://learnersguild.org/) coding noob to a more realized and relevant technical startup founder and software engineer. With a few more tools and the help of mentors and friends, I work to gain mastery over the ever evolving coding languages and soft skills that will positively transform me with each work experience.
 
-Up to that point, I'd been self-taught in basic `html`, `css`, and some `JavaScript`, primarily working with tutorials and minimal work in `Node`.
+I am a self-taught coder. Now, as I'm halfway into a ten-month project-based software engineering program, I continue to improve and will likely lean more heavily into front end development. We'll see what the future holds. Many thanks go out to my remarkable peers, and guidance of mentors in and outside of LG. With purpose and these meaningful relationships, I continue to build my arsenal of software development tools.
 
-Now, as I'm halfway into a ten-month project-based software engineering program, I continue to improve as a frontend software engineer.  Although only with the remarkable work and projects with my peers, and the guidance of my LG professional players and mentors: all of whom have helped me tremendously as *critical guides* as I build my software engineering arsenal of tools.
+My journey so far has been optimized with the following, but not limited to, tools that support my development environment.
 
-My journey to acquire and evolve my coding skills have been optimized with the following, but not limited to, tools that support my development environment.
-
-
-### Table Of Contents
+### My Dev Environment
 
 - [1 - Atom](https://atom.io/)
-- [2 - Oh my zsh!](http://ohmyz.sh/) with my [pending configurations](http://stevendobbelaere.be/installing-and-configuring-the-oh-my-zsh-shell/)
-
+- [2 - Oh My ZSH!](http://ohmyz.sh/) with my [.zshrc](https://github.com/Elleyes/dotfiles-lg/blob/master/.zshrc)
+- [3 - Conference List]( )
+- [4 - Career Development Resources]( )
