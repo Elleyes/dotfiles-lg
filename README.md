@@ -22,5 +22,3 @@ My journey so far has been optimized with the following, but not limited to, too
 - [6 - Conferences And Resources](https://github.com/Elleyes/dotfiles-lg/wiki/Conferences-and-Resources)
 - [7 - Asana](https://asana.com/)
 - [8 - Yoga](https://www.google.com/imgres?imgurl=http%3A%2F%2Fthestudiodp.com%2Fcustomcontent%2Fmembers%2Fadmin%2Fyoga.jpg&imgrefurl=http%3A%2F%2Fthestudiodp.com%2Fpage%2Fyoga&docid=khxmDu9sugageM&tbnid=wujZSDm_9abWuM%3A&vet=10ahUKEwjnooTmhfbSAhWqsVQKHSwwAJEQMwhxKAswCw..i&w=1200&h=627&bih=768&biw=1428&q=yoga&ved=0ahUKEwjnooTmhfbSAhWqsVQKHSwwAJEQMwhxKAswCw&iact=mrc&uact=8)
-- [9 - Self-Care]
-- [10 - Naps]
